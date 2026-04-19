@@ -1,5 +1,5 @@
 ---
-title: 我的项目（My Projects）
+title: 我的项目
 date: 2025-02-16T16:41:58+08:00
 ---
 
