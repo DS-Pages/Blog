@@ -1,4 +1,4 @@
-baseURL = 'https://blog.dsnb.cc/'
+baseURL = 'https://blog.dsnb.cc'
 defaultContentLanguage = "zh"
 languageCode = 'zh-Hans'
 title = "DongShaoNB's Blog"
@@ -35,7 +35,7 @@ motto = "喜欢就坚持下去吧！"
 
 rss = true
 
-utterancesRepo = "DongShaoNB/MyBlog"
+utterancesRepo = "DS-Pages/Blog"
 
 email = "i@dsnb.cc"
 
@@ -63,8 +63,8 @@ imageZoomableInPost = true
 showPrevNextPost = true
 
 [params.navItems]
-github = { href = "https://github.com/DongShaoNB/MyBlog", target = "_blank", icon = "logo-github", title = "GitHub" }
+github = { href = "https://github.com/DS-Pages/Blog", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 [params.experimental]
 jsDate = true
-jsDateFormat = "yyyy年MM月dd日"
+jsDateFormat = "yyyy 年 MM 月 dd 日"
