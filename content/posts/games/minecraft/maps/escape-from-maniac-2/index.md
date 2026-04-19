@@ -18,7 +18,7 @@ tags:
   - 我的世界Java版地图
 # nolastmod: true
 aliases:
-- /minecraft/maps/escape-from-maniac-2/
+- /posts/minecraft/maps/escape-from-maniac-2/
 ---
 
 寻找物品，完成任务，在疯子的追杀下打开大门成功逃离！
