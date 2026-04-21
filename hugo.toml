@@ -35,8 +35,6 @@ motto = "喜欢就坚持下去吧！"
 
 rss = true
 
-utterancesRepo = "DS-Pages/Blog"
-
 email = "i@dsnb.cc"
 
 siteStartYear = 2024
@@ -61,6 +59,12 @@ showTableOfContents = true
 showSummaryCoverInPost = true
 imageZoomableInPost = true
 showPrevNextPost = true
+
+[params.twikoo]
+enabled = true
+envID = "https://dsblog-twikoo.netlify.app/.netlify/functions/twikoo"
+region = ""
+lang = "zh-CN"
 
 [params.navItems]
 github = { href = "https://github.com/DS-Pages/Blog", target = "_blank", icon = "logo-github", title = "GitHub" }
