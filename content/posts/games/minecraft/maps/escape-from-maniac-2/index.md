@@ -1,7 +1,7 @@
 ---
 title: "我的世界多人非对称对抗地图 逃离疯子2"
 date: 2025-11-27T00:30:00+08:00
-lastmod: 2025-11-27T00:30:00+08:00
+# lastmod: 2025-11-27T00:30:00+08:00
 # avatar: avatar.jpg
 # authorlink: https://author.site
 cover: cover.png

@@ -12,7 +12,7 @@ categories:
 tags:
   - Steam
   - 教程
-nolastmod: true
+# nolastmod: true
 ---
 
 解决 Steam 家庭组邀请时提示“未表明属于同一户人家”的问题，帮助你快速加入家庭共享

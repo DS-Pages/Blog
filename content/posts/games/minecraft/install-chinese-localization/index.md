@@ -1,7 +1,7 @@
 ---
 title: "我的世界地图和整合包汉化安装教程"
 date: 2025-11-27T00:30:00+08:00
-lastmod: 2025-11-27T00:30:00+08:00
+# lastmod: 2025-11-27T00:30:00+08:00
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: cover.png

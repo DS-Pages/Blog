@@ -1,12 +1,12 @@
 ---
 title: 可能是最简单的 Windows / Office 激活方法
 date: 2025-05-01T10:12:10+08:00
-lastmod: 2025-05-01T10:12:10+08:00
+# lastmod: 2025-05-01T10:12:10+08:00
 # avatar: avatar.jpg
 # authorlink: https://author.site
-cover: windows.png
-images:
-  - windows.png
+cover: cover.png
+# images:
+#   - windows.png
 categories:
   - 教程
 tags:

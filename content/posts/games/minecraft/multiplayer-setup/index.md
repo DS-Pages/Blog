@@ -1,7 +1,7 @@
 ---
 title: "我的世界完整联机教程"
 date: 2025-12-01T00:30:00+08:00
-lastmod: 2026-04-19T15:30:00+08:00
+# lastmod: 2026-04-19T15:30:00+08:00
 # avatar: avatar.jpg
 # authorlink: https://author.site
 cover: cover.png

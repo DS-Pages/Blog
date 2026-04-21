@@ -1,11 +1,10 @@
 ---
 title: 家里云和家庭网络配置说明
 date: 2025-02-16T16:41:58+08:00
-lastmod: 2025-02-17T05:50:50+08:00
-author: DongShaoNB
+# lastmod: 2025-02-17T05:50:50+08:00
 # avatar: avatar.jpg
 # authorlink: https://author.site
-cover: proxmox_logo.png
+cover: cover.png
 # images:
 #   - proxmox_logo.png
 categories:
