@@ -1,6 +1,6 @@
 baseURL = 'https://blog.dsnb.cc'
 defaultContentLanguage = "zh"
-languageCode = 'zh-Hans'
+locale = 'zh-Hans'
 title = "DongShaoNB's Blog"
 theme = "dream"
 
