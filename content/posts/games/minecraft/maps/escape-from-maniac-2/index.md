@@ -17,8 +17,6 @@ tags:
   - 我的世界Java版
   - 我的世界Java版地图
 # nolastmod: true
-aliases:
-- /posts/minecraft/maps/escape-from-maniac-2/
 ---
 
 寻找物品，完成任务，在疯子的追杀下打开大门成功逃离！
@@ -70,11 +68,11 @@ aliases:
 # 下载地址
 
 原帖：  
-https://minecraft-inside.ru/maps/182258-pobeg-ot-manyaka-2.html  
+https://minecraft-inside.ru/maps/182258-pobeg-ot-manyaka-2.html
 
 汉化作者：[@北极熊IceBear](https://space.bilibili.com/46318533)  
 汉化原帖：  
-https://maplist.atland.icu/maps?q=%E9%80%83%E7%A6%BB%E7%96%AF%E5%AD%902  
+https://maplist.atland.icu/maps?q=%E9%80%83%E7%A6%BB%E7%96%AF%E5%AD%902
 
 蓝奏云：  
 https://dongshao.lanzout.com/idZ643c7fo1i
