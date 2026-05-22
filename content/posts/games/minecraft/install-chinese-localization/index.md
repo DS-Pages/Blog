@@ -19,6 +19,8 @@ tags:
 
 <!--more-->
 
+_封面使用 Nano Banana 2 生成_
+
 本文演示如何为**地图**和**整合包**安装汉化，分别使用 [PCL](https://afdian.com/p/0164034c016c11ebafcb52540025c377)、[Modrinth App](https://modrinth.com/app) 和 [HMCL](https://hmcl.huangyuhui.net/download/) 启动器进行演示
 
 ---

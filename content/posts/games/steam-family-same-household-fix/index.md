@@ -19,9 +19,10 @@ tags:
 
 <!--more-->
 
+_封面使用 Nano Banana 2 生成_
+
 > [!NOTE]
 > 本文中的方法转载自 [B站视频的评论区](https://www.bilibili.com/video/BV1A442197un?comment_on=1&comment_root_id=261786927825&share_tag=s_i#reply261786927825)，有改编
-
 
 # 操作流程
 
