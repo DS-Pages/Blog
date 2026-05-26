@@ -80,4 +80,4 @@ https://dongshao.lanzout.com/idZ643c7fo1i
 # 安装汉化说明
 
 地图汉化安装方法请参考这篇教程：  
-[我的世界地图和整合包汉化安装教程](../../install-chinese-localization/)
+[我的世界地图和整合包汉化安装教程](../../localization-guide)
