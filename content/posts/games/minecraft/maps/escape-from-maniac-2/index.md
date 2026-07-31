@@ -72,7 +72,7 @@ https://minecraft-inside.ru/maps/182258-pobeg-ot-manyaka-2.html
 
 汉化作者：[@北极熊IceBear](https://space.bilibili.com/46318533)  
 汉化原帖：  
-https://maplist.atland.icu/maps?q=%E9%80%83%E7%A6%BB%E7%96%AF%E5%AD%902
+https://atland.icu/maps/ac685eefaf60
 
 蓝奏云：  
 https://dongshao.lanzout.com/idZ643c7fo1i
