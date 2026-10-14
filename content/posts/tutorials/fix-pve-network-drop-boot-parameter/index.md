@@ -20,7 +20,7 @@ tags:
 
 <!--more-->
 
-_封面使用 ChatGPT Images 2.0 生成_
+_封面使用 GPT Image 2.0 生成_
 
 ## 问题现象
 

@@ -19,7 +19,7 @@ tags:
 
 <!--more-->
 
-_封面使用 ChatGPT Images 2.0 生成_
+_封面使用 GPT Image 2.0 生成_
 
 用了闲鱼 6 年半，终于是遇上神人了
 
